@@ -1,0 +1,1 @@
+mount -t ntfs /dev/sda"no of your disk" /root/ "make a fir and place a nane here" 
